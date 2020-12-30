@@ -176,7 +176,7 @@ public class Reusable_Methods_Loggers_Page_Object {
                 actions.moveToElement(element).perform();
             } catch (Exception e) {
                 System.out.println("Unable to mouse hovering element " + elementName + " " + e);
-                // getsc
+                //
             }
         }//end of click method
 
